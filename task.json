@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Dark",
+    "description": "This is a mistery serie",
+    "status": "Pendiente",
+    "created_at": "2024-12-31T20:50:10.111148-03:00"
+  },
+  {
+    "id": 2,
+    "title": "One Piece",
+    "description": "One Piece is the best anime",
+    "status": "Realizada",
+    "created_at": "2024-12-31T20:50:47.2877373-03:00"
+  },
+  {
+    "id": 3,
+    "title": "Crear proyectos Backend CLI",
+    "description": "La idea es crear proyectos sencillos de tipo CLI para dominar de la base el lenguaje Go",
+    "status": "Pendiente",
+    "created_at": "2024-12-31T21:11:21.1003251-03:00",
+    "updated_at": "2024-12-31T21:12:35.4233098-03:00"
+  }
+]
