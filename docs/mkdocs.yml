@@ -1,0 +1,8 @@
+site_name: Rastreador de Tareas
+nav:
+  - Inicio: index.md
+  - Guía:
+      - Uso: comands.md
+      - Instalación: install.md
+theme:
+  name: material
